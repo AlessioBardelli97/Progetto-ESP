@@ -1,5 +1,5 @@
 # Progetto-ESP
-
-Progetto realizzato per il corso di "Esperienze di programmazione". 
-
 Università di Pisa, Dipartimento di informatica. 
+
+Progetto realizzato per il corso di "Esperienze di programmazione".
+In tale elaborato si affronta il problema del test di primalità, presentando e analizzando alcuni algoritmi probabilistici.
